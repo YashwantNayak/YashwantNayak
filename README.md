@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Yashwant Nayak 👋
 
 **Software Developer** · Building things that work
 
