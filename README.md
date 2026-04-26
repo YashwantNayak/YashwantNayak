@@ -12,7 +12,7 @@ I enjoy solving real-world problems through technology — from backend systems 
 - 🔭 Currently working on: 
 - 🌱 Learning: `
 - 💬 Ask me about: anything related to software development
-- 📫 Reach me at: `[your@email.com]`
+- 📫 Reach me at:
 
 ---
 
