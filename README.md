@@ -13,7 +13,3 @@ I enjoy solving real-world problems through technology — from backend systems 
 - 🌱 Learning: `
 - 💬 Ask me about: anything related to software development
 - 📫 Reach me at:
-
----
-
-## 🛠 Tech Stack
