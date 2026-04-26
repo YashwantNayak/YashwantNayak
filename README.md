@@ -9,7 +9,7 @@
 I'm a software developer who loves writing clean, efficient code.  
 I enjoy solving real-world problems through technology — from backend systems to polished front-end interfaces.
 
-- 🔭 Currently working on: `[Your current project]`
+- 🔭 Currently working on: 
 - 🌱 Learning: `[Something you're exploring]`
 - 💬 Ask me about: anything related to software development
 - 📫 Reach me at: `[your@email.com]`
